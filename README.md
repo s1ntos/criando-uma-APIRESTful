@@ -1,4 +1,4 @@
-# criando-uma-APIRESTful
+
 
 # Projeto de API RESTful com Spring Boot
 Este projeto é uma API RESTful desenvolvida em Java com o framework Spring Boot, dedicada ao gerenciamento completo de um sistema de e-commerce. A API oferece funcionalidades robustas para criar, atualizar, ler e excluir produtos através de endpoints HTTP, proporcionando uma integração flexível e eficiente com aplicações cliente.
@@ -7,10 +7,10 @@ Este projeto é uma API RESTful desenvolvida em Java com o framework Spring Boot
 O principal objetivo deste projeto é exemplificar a criação de uma API moderna e escalável utilizando tecnologias avançadas. A aplicação utiliza Java 17 para aproveitar as últimas melhorias da linguagem, enquanto o Spring Boot 3 simplifica o desenvolvimento ao oferecer configuração automática e produtividade elevada. A integração com o Spring Data JPA facilita o acesso e manipulação de dados em um banco de dados relacional, garantindo alta performance e confiabilidade.
 
 # Funcionalidades Principais
-Gerenciamento de Produtos: Operações completas de CRUD para produtos, permitindo criar novos produtos, visualizar detalhes específicos, atualizar informações existentes e remover produtos do sistema.
-Documentação Automática: Utilização do Swagger (OpenAPI) para gerar documentação interativa da API. Isso facilita a compreensão dos endpoints disponíveis, seus parâmetros e respostas esperadas, simplificando o processo de integração para desenvolvedores externos.
-Arquitetura Modular: Estrutura organizada em pacotes (controller, service, repository) para uma separação clara de responsabilidades e facilitar a manutenção do código ao longo do tempo.
-Configuração Flexível: Utilização de arquivos de configuração do Spring Boot para personalizar o comportamento da aplicação, como configurações de banco de dados, segurança e propriedades específicas do ambiente.
++ Gerenciamento de Produtos: Operações completas de CRUD para produtos, permitindo criar novos produtos, visualizar detalhes específicos, atualizar informações existentes e remover produtos do sistema.
++ Documentação Automática: Utilização do Swagger (OpenAPI) para gerar documentação interativa da API. Isso facilita a compreensão dos endpoints disponíveis, seus parâmetros e respostas esperadas, simplificando o processo de integração para desenvolvedores externos.
++ Arquitetura Modular: Estrutura organizada em pacotes (controller, service, repository) para uma separação clara de responsabilidades e facilitar a manutenção do código ao longo do tempo.
++ Configuração Flexível: Utilização de arquivos de configuração do Spring Boot para personalizar o comportamento da aplicação, como configurações de banco de dados, segurança e propriedades específicas do ambiente.
 
 # Tecnologias Utilizadas
 Java 17: Versão mais recente da linguagem Java, oferecendo melhorias significativas em desempenho, segurança e funcionalidades.
